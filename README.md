@@ -34,8 +34,6 @@ Applied independently:
 - Random Forest (with standardized data)
 - Decision Tree (with standardized data)
 
-**Hyperparameter tuning** was performed for all models using **GridSearchCV**.
-
 ---
 
 ## 📊 Evaluation Metrics
