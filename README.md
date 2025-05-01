@@ -26,7 +26,6 @@ Sensor data from machines are processed and analyzed using various machine learn
 ### 🔹 Feature Selection Techniques
 Applied independently:
 - **Random Forest Feature Importance** + **Correlation Analysis**
-- **Lasso (L1) Regularization**
 - **Recursive Feature Elimination (RFE)**
 
 ### 🔹 Machine Learning Models
@@ -66,3 +65,4 @@ Key columns in the dataset:
 
 ```bash
 pip install -r requirements.txt
+python Development_of_Machine_Learning_Models_on_Predictive_Maintenance_Dataset.ipynb
